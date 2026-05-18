@@ -106,3 +106,5 @@ app.post("/api/caterers", (req, res) => {
     });
   }
 });
+
+export default router
