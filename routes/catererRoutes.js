@@ -8,7 +8,7 @@ const FILE_PATH = "./data/caterers.json";
 
 
 // GET all caterers
-app.get("/api/caterers", (req, res) => {
+router.get("/api/caterers", (req, res) => {
   try {
     const data = fs.readFileSync(FILE_PATH);
     let caterers = JSON.parse(data);
@@ -44,7 +44,7 @@ app.get("/api/caterers", (req, res) => {
 });
 
 // GET caterer by ID
-app.get("/api/caterers/:id", (req, res) => {
+router.get("/api/caterers/:id", (req, res) => {
   try {
     const data = fs.readFileSync(FILE_PATH);
     const caterers = JSON.parse(data);
@@ -66,7 +66,7 @@ app.get("/api/caterers/:id", (req, res) => {
 });
 
 // POST new caterer
-app.post("/api/caterers", (req, res) => {
+router.post("/api/caterers", (req, res) => {
   try {
     const { name, location, pricePerPlate, cuisines, rating, image } = req.body;
 
