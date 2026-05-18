@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Caterers",
+    "location": "Mumbai",
+    "pricePerPlate": 450,
+    "cuisines": ["Indian", "Chinese"],
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947"
+  },
+  {
+    "id": 2,
+    "name": "Food King",
+    "location": "Delhi",
+    "pricePerPlate": 600,
+    "cuisines": ["Punjabi", "South Indian"],
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+  },
+  {
+    "id": 3,
+    "name": "Tasty Events",
+    "location": "Pune",
+    "pricePerPlate": 300,
+    "cuisines": ["Gujarati", "Indian"],
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "id": 4,
+    "name": "Spice Delight",
+    "location": "Bangalore",
+    "pricePerPlate": 550,
+    "cuisines": ["North Indian", "Mughlai"],
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+  },
+  {
+    "id": 5,
+    "name": "Urban Feast",
+    "location": "Hyderabad",
+    "pricePerPlate": 700,
+    "cuisines": ["Biryani", "South Indian"],
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0"
+  },
+  {
+    "id": 6,
+    "name": "Happy Plates",
+    "location": "Ahmedabad",
+    "pricePerPlate": 350,
+    "cuisines": ["Gujarati", "Chinese"],
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+  },
+  {
+    "id": 7,
+    "name": "Grand Banquets",
+    "location": "Jaipur",
+    "pricePerPlate": 800,
+    "cuisines": ["Rajasthani", "Indian"],
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0"
+  },
+  {
+    "id": 8,
+    "name": "Taste Buds",
+    "location": "Chennai",
+    "pricePerPlate": 400,
+    "cuisines": ["South Indian", "Chettinad"],
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1"
+  },
+  {
+    "id": 9,
+    "name": "Celebration Caterers",
+    "location": "Kolkata",
+    "pricePerPlate": 500,
+    "cuisines": ["Bengali", "Indian"],
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17"
+  },
+  {
+    "id": 10,
+    "name": "Elite Catering",
+    "location": "Lucknow",
+    "pricePerPlate": 650,
+    "cuisines": ["Awadhi", "Mughlai"],
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1555244162-803834f70033"
+  }
+]
